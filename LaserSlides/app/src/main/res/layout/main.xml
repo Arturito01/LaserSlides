@@ -116,7 +116,7 @@
                 android:layout_width="0dp"
                 android:layout_height="105dp"
                 android:layout_weight="1.5"
-                android:text="But11"
+                android:text="But9"
                 android:textSize="14sp" />
 
         </TableRow>
@@ -136,7 +136,7 @@
                 android:layout_width="0dp"
                 android:layout_height="105dp"
                 android:layout_weight="1"
-                android:text="But13"
+                android:text="But10"
                 android:textSize="14sp" />
 
             <Button
@@ -144,7 +144,7 @@
                 android:layout_width="0dp"
                 android:layout_height="105dp"
                 android:layout_weight="1"
-                android:text="But14"
+                android:text="But11"
                 android:textSize="14sp" />
 
             <Button
@@ -152,7 +152,7 @@
                 android:layout_width="0dp"
                 android:layout_height="105dp"
                 android:layout_weight="1"
-                android:text="But15"
+                android:text="But12"
                 android:textSize="14sp" />
 
         </TableRow>

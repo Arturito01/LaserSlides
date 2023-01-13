@@ -1,4 +1,4 @@
-package cat.merino.albert.laserslides;
+package LaserSlides;
 
 import org.junit.Test;
 

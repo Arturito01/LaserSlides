@@ -22,3 +22,4 @@
         android:text="Never show this message again"
         android:textSize="16dp" />
 </LinearLayout>
+

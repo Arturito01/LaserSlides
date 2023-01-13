@@ -1,4 +1,4 @@
-package cat.merino.albert.laserslides;
+package LaserSlides;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("cat.merino.albert.laserslides", appContext.getPackageName());
+        assertEquals("LaserSlides", appContext.getPackageName());
     }
 }
